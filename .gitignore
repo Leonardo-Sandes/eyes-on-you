@@ -1,0 +1,19 @@
+# Ambientes virtuais
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Fotos geradas pelo programa
+olho_ascii_*.png
+ascii_eye_*.png
